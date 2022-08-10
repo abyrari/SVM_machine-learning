@@ -1,6 +1,6 @@
 # SVM_machine-learning
 how use svm in pythom
-KNN classification in python by skilearn Lib :
+svm classification in python by skilearn Lib :
 after denoising the pic or signal and..........we should get all feature from them
  then get them Label (calss1, class2 ,,,,,,,,,,,,,,,,)
 after that use this Label as target 
